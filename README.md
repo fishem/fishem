@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+My name is Franck.
+
+I am an IT auditor/Data engineer with extensive knowledge in IT risks, Cybersecurity, Cloud Computing and Software Development.
+
+I am passionate about both: data sciences and programming.
+
+💬 Ask me about Python, web scraping, data analysis, IT audit or... a life of a foreigner in Asia
+
+Drop me a note and connect with me on LinkedIn. :-) 
