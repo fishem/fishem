@@ -19,7 +19,7 @@ My name is Franck.
 
 I am an IT auditor/Data engineer with extensive knowledge in IT risks, Cybersecurity, Cloud Computing and Software Development.
 
-I am passionate about both: data sciences and programming.
+I am passionate about both: data sciences and programming and I am a devoted home brewer.
 
 💬 Ask me about Python, web scraping, data analysis, IT audit or... a life of a foreigner in Asia
 
